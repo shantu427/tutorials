@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/shantu427/SpringBoot/_apis/build/status/SpringBoot?branchName=master)](https://dev.azure.com/shantu427/SpringBoot/_build/latest?definitionId=3&branchName=master)
 The "REST with Spring" Classes
 ==============================
 
